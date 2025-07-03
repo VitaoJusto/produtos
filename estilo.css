@@ -34,7 +34,7 @@ textarea {
     padding: 8px;
     margin-top: 4px;
     margin-bottom: 12px;
-    margin-right: 10px; /* Espaço do lado direito */
+    margin-right: 10px; 
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
@@ -54,14 +54,9 @@ a.botao {
 }
 
 a.botao {
-    background-color: #6c757d;
+    background-color:#6c757d;
     text-align: center;
-    text-decoration: none;
-}
-
-input[type="submit"]:hover,
-a.botao:hover {
-    background-color: #218838;
+    
 }
 
 table {
